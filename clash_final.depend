@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558997665 source:c:\xampp\htdocs\clash_final\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"mapa.h"
+
+1558996960 source:c:\xampp\htdocs\clash_final\mapa.cpp
+	"mapa.h"
+
+1558996829 c:\xampp\htdocs\clash_final\mapa.h
+
